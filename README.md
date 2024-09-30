@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... NEXT.js , Typescript
 - 📫 How to reach me ... chaitubhake2013@gmail.com
 - 😄 Pronouns: ... Chaitu
-- ⚡ Fun fact: ... No funfact, only Hard Work
+- ⚡ Fun fact: ... No funfact, only Hard Work/Smart Work
 
 <!---
 ChaitanyaBhake/ChaitanyaBhake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
